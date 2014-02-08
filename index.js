@@ -1,7 +1,4 @@
-var fs = require('fs'),
-    
-    through = require("through2"),
-    gutil = require("gulp-util"),
+var through = require("through2"),
     jsdom = require("jsdom")
 
 module.exports = function (modules) {

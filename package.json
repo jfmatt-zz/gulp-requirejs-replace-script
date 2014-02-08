@@ -21,7 +21,6 @@
   "scripts": {},
   "dependencies": {
     "through2": "*",
-    "gulp-util": "~2.2.0",
     "jsdom": "~0.10.0"
   },
   "devDependencies": {},
