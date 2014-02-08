@@ -1,5 +1,5 @@
 # gulp-requirejs-replace-script
-[![NPM version][npm-image]][npm-url]  [![Coverage Status](coveralls-image)](coveralls-url) [![Dependency Status][depstat-image]][depstat-url]
+[![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
 
 > Plugin for [gulp](https://github.com/wearefractal/gulp) to replace RequireJS includes with direct <script> tags for AlmondJS builds, like the [replaceRequireScript](https://github.com/asciidisco/grunt-requirejs/blob/master/docs/almondIntegration.md) functionality from [grunt-requirejs](https://github.com/asciidisco/grunt-requirejs).
 
