@@ -1,7 +1,7 @@
 {
   "name": "gulp-requirejs-replace-script",
   "version": "1.0.0",
-  "description": "A plugin for Gulp",
+  "description": "A plugin for Gulp to replace RequireJS script tags when using Almond",
   "keywords": [
     "gulpplugin",
     "requirejs",
