@@ -1,0 +1,37 @@
+{
+  "name": "gulp-requirejs-replace-script",
+  "version": "1.0.0",
+  "description": "A plugin for Gulp",
+  "keywords": [
+    "gulpplugin",
+    "requirejs",
+    "almond"
+  ],
+  "homepage": "https://github.com/jfmatt/gulp-requirejs-replace-script",
+  "bugs": "https://github.com/jfmatt/gulp-requirejs-replace-script/issues",
+  "author": {
+    "name": "James Matthews",
+    "url": "https://github.com/jfmatt"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jfmatt/gulp-requirejs-replace-script.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "through2": "*",
+    "gulp-util": "~2.2.0",
+    "jsdom": "~0.10.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
